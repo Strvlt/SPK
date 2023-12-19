@@ -13,7 +13,7 @@ to run the web app simply  use
 Install postman 
 https://www.postman.com/downloads/
 
-get laptop list
+get iphone list
 <img src='img/get_handphone.png' alt='iphone list'/>
 
 get recommendations saw
@@ -36,8 +36,10 @@ INPUT:
 
 OUTPUT (diurutkan / sort dari yang terbesar ke yang terkecil):
 
+
 post recommendations saw
 <img src='img/post_saw.png' alt='recommendations saw'/>
+
 
 post recommendations wp
 <img src='img/post_wp.png' alt='recommendations wp'/>
